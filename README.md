@@ -38,6 +38,24 @@ Airbnb_Data_Analytics/
 ## 📊 Tableau Dashboard
 
 > You can explore the interactive visuals using the `.twbx` file in Tableau Public.
+>
+> ### 🖼️ Sample Visualizations
+
+#### 1. Distribution of Listing Prices
+![Question 1](Que 1.png)
+
+#### 2. Room Type Distribution
+![Question 2](Que 2.png)
+
+#### 3. Listings Across Neighborhoods
+![Question 3](Que 3.png)
+
+#### 4. Price vs Room Type
+![Question 4](Que 4.png)
+
+#### 5. Reviews Over Time
+![Question 5](Que 5.png)
+
 
 ---
 
